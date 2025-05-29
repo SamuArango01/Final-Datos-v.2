@@ -57,8 +57,10 @@ python main.py
 host='localhost'
 database='nodo_eafit_lms'
 user='root'
-password='2014Samu230511?'
+password='Tu contraseña'
 ```
+Con el fin de conectar con la base de datos en Workbench
+
 
 ### Estructura del código
 
