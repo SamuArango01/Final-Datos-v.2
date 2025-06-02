@@ -1,10 +1,10 @@
 📍# Sistemas de Gestión de Datos 📍
 
-👩🏻‍💻👨🏽‍💻### Estudiantes: Samuel Arango Echeverri - Nathalia Cardoza 👩🏻‍💻👨🏽‍💻
+👩🏻‍💻👨🏽‍💻### Estudiantes: Samuel Arango Echeverri - Nathalia Cardoza ### 👩🏻‍💻👨🏽‍💻
 
 [sarangoe3@eafit.edu.co](mailto:sarangoe3@eafit.edu.co) - [nvcardozaa@eafit.edu.co](mailto:nvcardozaa@eafit.edu.co)
 
-🦾 ### Profesor: Edwin Nelson Montoya - [emontoya@eafit.edu.co](mailto:emontoya@eafit.edu.co) 🦾
+🦾 ### Profesor: Edwin Nelson Montoya - [emontoya@eafit.edu.co](mailto:emontoya@eafit.edu.co) ###🦾
 
 ---
 
