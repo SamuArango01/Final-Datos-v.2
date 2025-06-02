@@ -1,6 +1,3 @@
-Claro, Samuel. Aquí tienes tu README corregido con los encabezados bien estructurados (siguiendo sintaxis Markdown) y con una redacción más clara y profesional. Puedes copiarlo tal cual y se verá bien en cualquier visualizador Markdown como GitHub o Visual Studio Code:
-
----
 
 # 📍 Sistemas de Gestión de Datos 📍
 
@@ -131,6 +128,3 @@ python main.py
 * En nuestro caso, esta base de datos ya fue creada y se llama **`nodo_lms_eafit`**.
 
 ---
-
-Si necesitas que te genere este README en archivo `.md`, también puedo hacerlo. ¿Lo quieres así?
-
